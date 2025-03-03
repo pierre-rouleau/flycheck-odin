@@ -1,4 +1,4 @@
-;;; flycheck-odin.el - Flycheck support for Odin
+;;; flycheck-odin.el - Flycheck support for Odin.  -*-lexical-binding: t-*-
 
 (require 'flycheck)
 ;; Flycheck requires seq so this shouldn't be an issue?
